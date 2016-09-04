@@ -1,0 +1,273 @@
+﻿@media screen and (max-width:1440px){
+	.content,.liucheng .content,.pinpai,.window-head .window_menu,.anli .content{ width:1240px}
+	.anli li{ width:31.7%; min-height:372px; }
+	.anli li img{ width:100%}
+	.anli li p{ height:75px; overflow:hidden}
+	.anli_a i{  height:286px;width:100%;}
+	.anli_a i em{width:100px !important;height:57px !important; background-size:100px 57px !important}
+	.address{ width:31%}
+	.yingxiao{ width:68%}
+	.header .nav-site{ border-right:none}
+	.flickerplate{height:514px !important}
+	#dituContent,.ad img{height:450px !important}
+	#menu-mobile .bt-menu{ display:none}
+	.shixian li p{ width:72%}
+	.women_page .jieshao{ width:53%}
+	h1{ font-size:50px}
+	.pinpai li span{ font-size:26px}
+	.anli li.anli_p{margin-left:0; margin-right:0 !important}
+	.news_page{ margin-bottom:5%}
+	.news{margin-bottom:11%;}
+	
+}
+@media screen and (max-width:1250px){
+	.content,.liucheng .content,.pinpai,.window-head .window_menu,.header .nav-site,.women_page .jieshao,.anli .content{ width:1000px}
+	.pinpai li span {+background: url(../Images/pinpai_ie.png) no-repeat}
+	.pinpai li:hover span{+background: url(../Images/pinpai_hoverie.png) no-repeat}
+	.pinpai li span,.pinpai li:hover span{ height:179px;line-height:167px;background-size:167px 179px}
+	.pinpai_li{ margin:0 4.1%}
+	.liucheng li span{ width:76%}
+	.liucheng li{ width:20.8%}
+	.anli li,.news_nav{ width:31.3%}
+	.anli li{ min-height:343px; }
+	.anli_a i em{width:80px !important;height:45px !important; background-size:80px 45px !important}
+	.anli_a i{  height:229px}
+	.news ul{width: 32.3%;}
+	.address{ width:100%; text-align:center; margin-bottom:35px}
+	.yingxiao{ float:none;width:84%; margin:0 auto}
+	.f_img{  padding:60px 0;}
+	#dituContent,.ad img{height:430px !important}
+	#menu-mobile .bt-menu{ display:none}
+	.shixian li p{  margin: 1% 0 0 6%;}
+	.shixian li p{ width:76%}
+	.shixian li span{ font-size:26px}
+	.dianshang_fuwu .ul_one{left:6%;}
+	.dianshang_fuwu .ul_two{ right:6%}
+	.news_nav a{  line-height:45px;font-size:18px;}
+	.Contact_page .address{ width:60%; text-align:left} 
+	h1{ font-size:45px}
+	.liucheng li b a,.pinpai li p{ font-size:16px; line-height:28px;}
+	.pinpai li span{ font-size:24px}
+	#Article,.dianshang_juzhong{padding: 3% 2% 5%;}
+	.dianshang_con h1, .dianshang_fuwu h1,.women_page .jieshao{margin:8% 0 5%;}
+	.women_page .jieshao p{margin-bottom:8%;}
+	.anli li.anli_p{margin-left:0; margin-right:0 !important}
+	.guanbi{width:11%;}
+    .women_page{ margin-bottom:15%}
+}
+@media screen and (max-width:1000px){
+	.content,.liucheng .content,.pinpai,.window-head .window_menu,.header .nav-site,.zhenghe_content p,.anli .content{ margin:0 auto; width:750px}
+	.pinpai{ margin:5% auto}
+	.header .nav-site li{width:16.39%;}
+	.subnav a{ width:76px}
+	.header .logo{padding:6% 0 3.6%;}
+	.header .logo img{ width:600px; height:50px}
+	.flickerplate{height:405px !important}
+	#dituContent,.ad img{height:400px !important}
+	.pinpai li span {+background: url(../Images/pinpai_ie1000.png) no-repeat}
+	.pinpai li:hover span{+background: url(../Images/pinpai_hoverie1000.png) no-repeat}
+	.pinpai li span,.pinpai li:hover span{ height:131px;line-height:131px;background-size:122px 131px}
+	.liucheng li span{ height:85px;}
+	.liucheng li span strong{font-size:20px;width:82px;padding-top:15px;}
+	.liucheng li span em{font-size:20px;width:82px; line-height: 82px;}
+	.liucheng li a img{ width:30px; height:85px;}
+	.liucheng li b{ width:85%}
+	.liucheng{  height:806px;}
+	.anli li,.anli li.anli3{ width:47.3%;}
+	.anli li{ min-height:377px; }
+	.anli li.anli2,.anli li.anli4,.anli li.anli6{margin-right:0 !important}
+	.anli_a i{ height:254px}
+	.anli li span i{ display:none}
+	.news ul{ width:31.9%}
+	.yingxiao{ width:67%}
+	.yingxiao ul{ margin-bottom:5%}
+	#menu-mobile .bt-menu{ display:none}
+	.shixian li p{  margin: 1% 0 0 4%;}
+	.shixian li p{ width:78%; font-size:16px}
+	.shixian li span{ font-size:18px;  padding:26px 0;}
+	.dianshang_fuwu img{ width:100%;}
+	.dianshang_fuwu .ul_one,.dianshang_fuwu .ul_two{ top:-50px}
+	.news_nav{ width:55%}
+	.women_page .jieshao{ width:93%}
+	h1{ font-size:40px}
+	.liucheng li b a,.pinpai li p{ font-size:14px; line-height:28px;}
+	.pinpai li span{ font-size:20px}
+	.yingxiao{ display:none}
+	.liucheng{ height:620px}
+	.liucheng h1 {padding:8% 0;}
+	.liucheng_page{ height:auto}
+	.liucheng_page li i{top:26px;}
+	.anli li.anli_p{margin-left:0; margin-right:0 !important}
+	.guanbi{width:15%;}
+	.anli li p{ height:110px; overflow:hidden}
+	.news,.case_page,.dianshang_page,#dituContent{  margin-bottom:15%}
+}
+@media screen and (max-width:750px){
+	.content,.liucheng .content,.pinpai,.window-head .window_menu,.header .nav-site,.zhenghe_content p,.anli .content{ width:100%}
+	.header .logo img{ width:450px; height:38px}
+	.header .nav-site li{ width:16.3%}
+	.flickerplate{height:260px !important}
+	#dituContent,.ad img{height:330px !important}
+	.pinpai li span {+background: url(../Images/pinpai_ie750.png) no-repeat}
+	.pinpai li:hover span{+background: url(../Images/pinpai_hoverie750.png) no-repeat}
+	.pinpai li span, .pinpai li:hover span{ background-size:108px 116px;height: 116px;line-height: 116px;  font-size: 16px;}
+	.pinpai li p,.pinpai span,.dianshang_con p{ font-size:14px}
+	.window-head .logo img{ width:180px; height:39px}
+	.window-head{ height:60px}
+	.subnav a{ width:13%} 
+	.anli_a i:hover{background-size:60px 34px;}
+	.window-head .window_menu .subnav{width:60%}
+	.zhenghe_content p{ margin:0 auto}
+	.liucheng li span{ width:73%}
+	.liucheng li a img{ right:0}
+	.liucheng li span strong{ font-size:16px;  width:60px;  padding-top:8px;}
+	.liucheng li span em{ font-size:16px}
+	.liucheng li a img{height:85px}
+	.liucheng li b,.news_zuihou{ display:none}
+	.liucheng li.zuihou{ width:15.4%}
+	.liucheng {height:450px;}	.liucheng_page{ height:auto}
+	.anli_a i{ height:222px}
+	.anli li{ min-height:288px; max-height:350px;}
+	.news ul {padding-right:1%;}
+	.news{ width:98%; margin:0 auto 30%}
+	.news ul{ width:49%}
+	.anli li{ width:46.9%}
+	#menu-mobile .bt-menu{ display:none}
+	.shixian li p{ font-size:16px}
+	.news_nav a{  line-height:35px;font-size:16px;}
+	.women_page .jieshao{ width:96%}
+	.Contact_page .address{ width:100%; text-align:center} 
+	.Contact_weixin{ text-align:center; float:none; margin:0 auto}
+	h1{ font-size:35px}
+	.shixian li span{letter-spacing:0}
+	.anli li:hover .anli_a i em{}
+	.anli li.anli_p{margin-left:0; margin-right:0 !important}
+	.guanbi{width:20% !important}
+	.guanbi_a{  height: 60px !important;line-height: 60px !important;}
+	ul.nav-site{ position:relative}
+	.bg_li{ display:block; width:3% !important;   border-right:none; background:#e1e3e4;position:absolute; right:-1px; top:0}
+}
+@media screen and (max-width:670px){
+.content,.liucheng .content,.header .nav-site,.zhenghe_content p,.jieshao p,.anli .content{width:98%; margin:0 auto}
+	.anli_a i em{width:60px !important;height:34px !important; background-size:60px 34px !important}
+	.anli_a i {height:186px}
+	.anli li img{height:186px;}
+	.anli li {width: 48%; margin:0 1%; height:260px; overflow:hidden; margin-bottom:15px}
+	.liucheng li span strong{font-size: 14px;padding-top:25px;}
+	.liucheng li span em{ font-size:14px;}
+	.liucheng_page li i {  right:4%; background-size:15px 25px !important}
+	.pinpai li span {+background: url(../Images/pinpai_ie670.png) no-repeat}
+	.pinpai li:hover span{+background: url(../Images/pinpai_hoverie670.png) no-repeat}
+	.pinpai li span, .pinpai li:hover span {background-size:86px 92px;height:92px;line-height:92px; width:86px; float:none}
+	.pinpai{ margin-top:3%}
+	.liucheng li b a, .pinpai li p,.anli li p{ line-height:24px}
+	.jieshao p, .dianshang_con p,.zhenghe_content p{ line-height:30px;  font-size: 16px;}
+	.zhenghe_content p{font-size: 15px;}
+	.details_con{ line-height:30px;}
+	.news li{ height:40px; overflow:hidden}
+	.anli li.anli_p{margin-left:0; margin-right:0 !important}
+	.news_page{ margin-bottom:15%}
+
+}
+@media screen and (max-width:500px){
+.content,.liucheng .content,.header .nav-site,.zhenghe_content p,.jieshao p{width:100%; margin:0 auto}
+.window-head .window_menu,.women_page .jieshao{width:99%; margin:0 auto; overflow:hidden}
+.pinpai{width:315px; margin:0 auto}
+.jieshao p,.zhenghe_content p{font-size:16px;  line-height:40px;}
+	.header .logo img{ width:300px; height:25px}
+	.header .nav-site li{width:24%}
+	.header .nav-site{ height:35px}
+	#dituContent,.ad img{height:240px !important}
+	.header .nav-site li{ line-height:35px}
+	.header .nav-site li a{ font-size:16px}
+	.window-head .logo img{ width:120px; height:26px; margin-left:3%}
+	.window-head .window_menu .subnav{ width:65%;  margin-top:10px;}
+	.subnav a{ width:12.8%;  font-size: 15px;}
+	.pinpai li p{ text-align:center}
+	.pinpai ul li{ width:80%; float:none; margin:0 auto 25px; padding:0 5%; text-align:center; height:auto}
+.pinpai li p, .pinpai span, .dianshang_con p{ font-size:16px}
+.pinpai li span, .pinpai li:hover span{ font-size:18px}
+	.pinpai li span {+background: url(../Images/pinpai_ie550.png) no-repeat}
+	.pinpai li:hover span{+background: url(../Images/pinpai_hoverie550.png) no-repeat}
+	.pinpai li span, .pinpai li:hover span {background-size:110px 118px;height:118px; width:110px; margin:0 27% 2%;line-height:118px;}
+	.anli li,.anli li.anli3{ width:100%;  margin-bottom:15px;}
+	.anli li img{ height:215px;}
+	.news ul{ width:48%; float:left;  padding-right:4%;  }
+	.news li {height:35px; overflow:hidden; font-size: 16px;}
+	.news h3{ height:35px; line-height:35px;font-size:16px;}
+	.news2{ padding-right:0 !important}
+	.anli3,.anli6{ margin-right:4% !important}
+	.anli2,.anli4,.anli6{ margin-right:0 !important}
+	.anli_a i{height:215px;}
+	.anli_a i em{width:80px !important;height:45px !important; background-size:80px 45px !important}
+	.anli li{margin:0; height:350px;}
+	.news_page li{ height:320px}
+	.anli li p span{font-size: 18px;  margin:8px auto 0; font-weight:500}
+	.anli li p{ width:95%; margin:0 auto; line-height:24px; height:55px; overflow:hidden}
+	.yingxiao h4{ padding:15px 55px}
+	.window-head{ height:50px}
+	.subnav a{width:11.8%; font-size:14px}
+	.zhenghe .tltie{height:128px;}
+	.zhenghe .tltie h1{  line-height: 128px;}
+     h1,.anli h2, .news h2,.gengduo a{ font-size:18px}
+	.anli h2, .news h2{height:50px;line-height: 50px;}
+	.pinpai{margin:50px auto 0;}
+	.gengduo{ width:218px;margin: 6% auto;}
+	.pc_zhan,.yingxiao,.news_page li p i, .details_con i{ display:none}
+	.shouji,#menu-mobile .bt-menu{ display:block}
+	.window-head .window_menu .subnav{ width:40%; float:left; margin-left:3%}
+	.subnav a{ width:40%; font-size:15px}
+	.address p strong,.yingxiao li a{ color:#fff !important}
+	.shixian li p{ font-size:14px; line-height:28px;}
+	.dianshang_fuwu{ padding-bottom:60%}
+	.dianshang_fuwu .ul_one, .dianshang_fuwu .ul_two{ top:-20px}
+	.dianshang_fuwu ul a,.women_page .jieshao p{ font-size:16px}
+	.dianshang_juzhong,#Article{ padding:4% 3%}
+	.news_nav{ width:80%}
+	.Contact_page .address p strong{ color:#333 !important}
+	.liucheng{ height:auto; background:#d9252e none;}
+	.liucheng li,.liucheng li.zuihou{ width:70%; margin:0 auto 8% 12%; position:relative}
+	.liucheng li span,.liucheng li.zuihou span{height:60px;  width:80%; margin-bottom:5px;}
+	.liucheng li span strong{ width:100%; font-size:20px; padding-top:15px}
+	.liucheng li span em{ width:100%; font-size:20px; line-height:60px}
+	.liucheng li b,.details_con i.riqi{ display:block}
+	.liucheng li i{background:url(../images/liucheng.jpg) no-repeat; background-size:30px 60px; width:30px; height:60px; position:absolute; left:80%; top:0}
+	.liucheng li a img{ left:80%;  height:60px; width:21px;}
+	.liucheng li b a,.details_con,.jieshao p, .zhenghe_content p{ font-size:16px; line-height:28px}
+	.liucheng_page{ background:none}
+	.liucheng_page li i{background: url(../images/fuwu2.png) no-repeat right}
+	.shixian li p{ display:block; width:95%}
+	.shixian li span{ width:36%;  padding: 10px 0;  font-size: 16px;}
+	.anli .content{ width:100%;}
+	.anli .gengduo{background: #d9252e url(../images/gengduo.jpg) no-repeat 30px;}
+	.liucheng .gengduo {background: #e14d57 url(../images/gengduo.jpg) no-repeat 30px center;}
+	.anli li.anli_p{margin-left:0; margin-right:0 !important}
+	.address p{ line-height:28px}
+	.shixian{ width:98%; margin:0 auto 25%}
+	.bg_li{width:5% !important;}
+	.jieshao p,.zhenghe_content,.zhenghe_content p,.women_page .jieshao p{ width:99%; text-align:left}
+    .women_page,.news_page,.details_page{ margin-bottom:25%}
+	.case_page{ margin-bottom:27%}
+	.details_page{padding-bottom:12%;}
+	#pages span,#pages a,#pages a.a1{height: 40px; width:53px;line-height:40px;}
+	#pages a.a1{ width:33%}
+	#pages{ margin-bottom:5%}
+}
+@media screen and (max-width:420px){
+.anli .content{ width:98%}
+.anli_a i,.anli li img{ height:273px}
+	.anli li{margin:0; height:340px;}
+	.news_page li{ height:310px}
+}
+@media screen and (max-width:380px){
+.anli .content{ width:98%}
+.anli_a i,.anli li img{ height:246px}
+	.anli li{margin:0; height:315px;}
+	.news_page li{ height:295px}
+}
+@media screen and (max-width:330px){
+.anli .content{ width:98%}
+.anli_a i,.anli li img{ height:208px}
+	.anli li{margin:0; height:230px;}
+	.news_page li{ height:210px}
+}
