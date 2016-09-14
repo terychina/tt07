@@ -135,6 +135,7 @@ input.date,input.endDate{background: #fff url(../images/input_date.png) no-repea
 .case_page .content{ margin-bottom:8%}
 .anli h2,.news h2{ background:#d9252e; color:#fff; height:60px; width:100%; text-align:center; line-height:60px; font-weight:normal; font-size:30px}
 .anli ul{ overflow:hidden; margin:4.5% auto}
+.anli ul.des-case-ul{margin:20px auto}
 .anli .content{width:1443px}
 .m35{margin-top:3.5%;}
 .anli_a img{width:100%;height: 286px;}
@@ -635,6 +636,40 @@ input.date,input.endDate{background: #fff url(../images/input_date.png) no-repea
 .Contact_page .address p strong{ color:#333}
 .Contact_weixin{ float:right; width:210px;}
 .anchorBL,.BMap_stdMpCtrl,.BMap_omCtrl{ display:none}
-
-
-
+.des-info{
+  width:980px;
+  margin:0 auto;
+}
+.des-detail{
+  float:left;
+}
+.des-detail-content{ float:left;margin:30px 10px 10px 10px;}
+.des-detail-content li{ width:700px;height:28px; font-size:14px; white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
+.des-detail-content li span{width:600px;height:28px; font-weight:normal;margin-left:30px;}
+.des-detail-content li p{ font-weight:normal;margin-left:30px;}
+.des-info .des-img {
+  position:relative;
+  margin:40px 20px;
+  float: left;
+  width: 140px;
+  height: 140px;
+}
+.des-info .des-img img {
+  float: left;
+  width: 140px;
+  height: 140px;
+}
+.des-info .des-img .shadow {
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: url(../images/shadow.png);
+}
+.des-clear{
+  clear:both;
+}
+.personal-case-title{
+  margin:20px 0 0 12px;
+}
